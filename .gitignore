@@ -1,0 +1,30 @@
+# -------------------------
+# Dataset (don't upload)
+# -------------------------
+FishDetection.v5i.yolov11/
+
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
