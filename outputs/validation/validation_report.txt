@@ -1,0 +1,19 @@
+split  images  labels  missing_labels  empty_labels  corrupted_images  invalid_boxes
+train    6830    6830               0             0                 0            534
+valid     698     698               0             0                 0             84
+ test     697     697               0             0                 0             29
+
+                 Class  Objects
+             AngelFish      781
+              BlueTang     2040
+         ButterflyFish     1979
+             ClownFish     1021
+              GoldFish     1231
+               Gourami     1768
+            MorishIdol      359
+             PlatyFish     1350
+     RibbonedSweetlips      599
+ThreeStripedDamselfish      205
+         YellowCichlid     1665
+            YellowTang      741
+             ZebraFish     2076

@@ -1,0 +1,9 @@
+Metric,Value
+Total Images,8225.0
+Total Fish Objects,15815.0
+Number of Species,13.0
+Average Fish per Image,2.0
+Median Fish per Image,1.0
+Maximum Fish in One Image,51.0
+Minimum Fish in One Image,1.0
+Average Bounding Box Area,0.18219
