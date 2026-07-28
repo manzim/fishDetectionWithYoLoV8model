@@ -3,6 +3,8 @@
 # -------------------------
 FishDetection.v5i.yolov11/
 report/
+notebooks/outputs/FishProjectOutputs/training/
+
 
 # -------------------------
 # Python
